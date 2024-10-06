@@ -1,0 +1,71 @@
+ENG
+
+WIND BELL: Pacifies strong winds.
+Can also call friendly ghosts, bring you back to the maiden statues.
+
+SERVIGNY MAP : A basic map of the Earldom of Servigny.
+Will transport you to a safe place in the village upon used.
+
+
+BRA
+
+SINO DOS VENTOS: Pacifica ventos fortes.
+Também pode levá-lo de volta às estátuas de donzelas.
+
+MAPA DE SERVIGNY: Um mapa básico do Condado de Servigny.
+Irá transportá-lo para um lugar seguro na vila após o uso.
+
+
+CHS
+
+风铃: 用来平息强风。
+也可用来吸引友善的灵魂，将你送回最后记录进度的地方。
+
+塞尔维尼地图 : 塞尔维尼伯爵领地的基本地图。
+使用后可以将你立刻带回村子里的安全地点。
+
+
+ESP
+
+CAMPANA DEL VIENTO: Calma vientos demasiado fuertes.
+También puede traerte de vuelta a las estatuas de doncellas.
+
+
+MAPA DE SERVIGNY: Un mapa básico del Condado de Servigny. 
+Lo transportará a un lugar seguro en el pueblo una vez utilizado.
+
+
+FRA
+
+CLOCHETTE DU VENT: Permet d’atténuer les rafales de vent.
+Peut également vous ramener aux statues de la vierge.
+
+CARTE DE SERVIGNY : Une carte basique du comté de Servigny.
+Vous transportera vers un endroit sûr du village une fois utilisé.
+
+
+GER
+
+WINDGLOCKE: Besänftigt starke Winde.
+Kann Sie auch zu den Jungfrauenstatuen zurückbringen.
+
+KARTE VON SERVIGNY: Eine Karte der Grafschaft Servigny.
+Bringt Sie bei Verwendung zu einem sicheren Ort im Dorf.
+
+
+ITA
+
+CAMPANELLO DEL VENTO: Calma i venti forti.
+Può anche riportarti alle statue delle vergini.
+
+MAPPA DI SERVIGNY: Una mappa basilare della Contea di Servigny.
+Una volta utilizzato, ti trasporterà in un luogo sicuro nel villaggio.
+
+
+JPN
+
+風のベル：強風を和らげる、
+使用後は聖女像まで転移できる。
+
+サービニーの地図：サービニーの伯爵領の基本マップ、
+使用後は安全な場所まで転移できる。
